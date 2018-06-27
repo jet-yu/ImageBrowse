@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "/Users/yuxu/githubworkspaces/ImageBrowse/app/build/intermediates/res/merged/debug/layout_album_item_images_item_view.xml.flat",
+        "source": "/Users/yuxu/githubworkspaces/ImageBrowse/app/src/main/res/layout/album_item_images_item_view.xml"
+    },
+    {
+        "merged": "/Users/yuxu/githubworkspaces/ImageBrowse/app/build/intermediates/res/merged/debug/layout_album_item_images.xml.flat",
+        "source": "/Users/yuxu/githubworkspaces/ImageBrowse/app/src/main/res/layout/album_item_images.xml"
+    },
+    {
+        "merged": "/Users/yuxu/githubworkspaces/ImageBrowse/app/build/intermediates/res/merged/debug/layout_albums_gridview.xml.flat",
+        "source": "/Users/yuxu/githubworkspaces/ImageBrowse/app/src/main/res/layout/albums_gridview.xml"
+    },
+    {
+        "merged": "/Users/yuxu/githubworkspaces/ImageBrowse/app/build/intermediates/res/merged/debug/layout_selected_images_adapter_item.xml.flat",
+        "source": "/Users/yuxu/githubworkspaces/ImageBrowse/app/src/main/res/layout/selected_images_adapter_item.xml"
+    },
+    {
+        "merged": "/Users/yuxu/githubworkspaces/ImageBrowse/app/build/intermediates/res/merged/debug/layout_selected_images_grid.xml.flat",
+        "source": "/Users/yuxu/githubworkspaces/ImageBrowse/app/src/main/res/layout/selected_images_grid.xml"
+    },
+    {
+        "merged": "/Users/yuxu/githubworkspaces/ImageBrowse/app/build/intermediates/res/merged/debug/drawable-ldpi_icon.png.flat",
+        "source": "/Users/yuxu/githubworkspaces/ImageBrowse/app/src/main/res/drawable-ldpi/icon.png"
+    },
+    {
+        "merged": "/Users/yuxu/githubworkspaces/ImageBrowse/app/build/intermediates/res/merged/debug/layout_ablums_adapter_item.xml.flat",
+        "source": "/Users/yuxu/githubworkspaces/ImageBrowse/app/src/main/res/layout/ablums_adapter_item.xml"
+    },
+    {
+        "merged": "/Users/yuxu/githubworkspaces/ImageBrowse/app/build/intermediates/res/merged/debug/layout_item.xml.flat",
+        "source": "/Users/yuxu/githubworkspaces/ImageBrowse/app/src/main/res/layout/item.xml"
+    },
+    {
+        "merged": "/Users/yuxu/githubworkspaces/ImageBrowse/app/build/intermediates/res/merged/debug/drawable-hdpi_icon.png.flat",
+        "source": "/Users/yuxu/githubworkspaces/ImageBrowse/app/src/main/res/drawable-hdpi/icon.png"
+    },
+    {
+        "merged": "/Users/yuxu/githubworkspaces/ImageBrowse/app/build/intermediates/res/merged/debug/drawable_item_press_bg.xml.flat",
+        "source": "/Users/yuxu/githubworkspaces/ImageBrowse/app/src/main/res/drawable/item_press_bg.xml"
+    },
+    {
+        "merged": "/Users/yuxu/githubworkspaces/ImageBrowse/app/build/intermediates/res/merged/debug/layout_sdcard.xml.flat",
+        "source": "/Users/yuxu/githubworkspaces/ImageBrowse/app/src/main/res/layout/sdcard.xml"
+    },
+    {
+        "merged": "/Users/yuxu/githubworkspaces/ImageBrowse/app/build/intermediates/res/merged/debug/drawable-hdpi_album_default_loading_pic.png.flat",
+        "source": "/Users/yuxu/githubworkspaces/ImageBrowse/app/src/main/res/drawable-hdpi/album_default_loading_pic.png"
+    },
+    {
+        "merged": "/Users/yuxu/githubworkspaces/ImageBrowse/app/build/intermediates/res/merged/debug/drawable-mdpi_icon.png.flat",
+        "source": "/Users/yuxu/githubworkspaces/ImageBrowse/app/src/main/res/drawable-mdpi/icon.png"
+    }
+]

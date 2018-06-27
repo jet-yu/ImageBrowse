@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="focus_color">#7f33b5e5</color>
+    <dimen name="column_width">120dp</dimen>
+    <dimen name="item_h_w">80dp</dimen>
+    <item name="holder_tag" type="id"/>
+    <item name="load_layout" type="id"/>
+    <item name="ok_btn" type="id"/>
+    <item name="pbar" type="id"/>
+    <item name="press" type="id"/>
+    <item name="select_btn" type="id"/>
+    <item name="selected_num" type="id"/>
+    <string name="app_name">ImageBrowse</string>
+</resources>
